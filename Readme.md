@@ -15,6 +15,8 @@ This work is an exercise on implementing a graph in Python, using an adjacency l
 
 To check the results, have a look at the [Jupyter Notebook](Graphs-Lesson8.ipynb)
 
+The tests are inconsistent, due to my lack of experience, but I feel like I am improving.
+
 Comments and hints are welcomed. Feel free to ask questions by creating issues.
 
 If you want to install a Jupyter notebook editor, just install anaconda navigator.
