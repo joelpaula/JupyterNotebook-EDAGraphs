@@ -1,6 +1,5 @@
 # Graphs
 
--------------------------------------------------------------
 >**Unidade curricular | Course Unit** Estrutura de Dados e Algoritmos | Data Structures and Algorithms
 >
 >**Professor** Luis Ramada Pereira
